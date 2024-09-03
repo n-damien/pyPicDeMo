@@ -10,6 +10,8 @@ pyPicDeMo is a simple GUI tool designed to help you manage your image files by a
 
 ## Getting Started
 
+** pyPicDeMo has only been tested in Windows! **
+
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/python-picture-sorter.git
@@ -18,8 +20,6 @@ pyPicDeMo is a simple GUI tool designed to help you manage your image files by a
     Install Required Libraries:
         Make sure you have Python 3.x installed.
         Install the required libraries with:
-
-        bash
 
     pip install Pillow send2trash
 
