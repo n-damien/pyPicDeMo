@@ -67,8 +67,6 @@ Use at Your Own Risk: The user assumes all responsibility for the use and instal
 
 No Maintenance: This project was created as a side project and there are no plans for maintaining or updating it in the future.
 
-License
-
 ## License
 
 pyPicDeMo is licensed under the GNU General Public License v3.0. You are free to redistribute and modify this software under the terms of the GPL.
