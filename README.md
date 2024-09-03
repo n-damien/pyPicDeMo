@@ -50,6 +50,7 @@ No Maintenance: This project was created as a side project and there are no plan
 License
 
 This project is licensed under the GNU License. See the LICENSE file for more details.
+
 Acknowledgments
 
 This project was collaboratively developed by Damien and ChatGPT.
