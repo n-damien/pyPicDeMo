@@ -87,4 +87,4 @@ By contributing to this project, you agree that your contributions will be licen
 
 ## Acknowledgments
 
-This project was collaboratively developed by Damien and ChatGPT.
+This project was collaboratively developed by n-damien and ChatGPT.
