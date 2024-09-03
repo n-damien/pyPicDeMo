@@ -14,8 +14,8 @@ pyPicDeMo is a simple GUI tool designed to help you manage your image files by a
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/python-picture-sorter.git
-   cd python-picture-sorter
+   git clone https://github.com/n-damien/pyPicDeMo.git
+   cd pyPicDeMo
 
     Install Required Libraries:
         Make sure you have Python 3.x installed.
@@ -37,9 +37,7 @@ Run the Application:
 
     Run the script:
 
-    bash
-
-        python photo_manager.py
+          python pyPicDeMo.py
 
 Disclaimer
 
