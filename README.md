@@ -44,7 +44,7 @@ Run the Application:
    ```
     Run the script:
 
-          python pyPicDeMo.py
+          python PicDeMo.py
 
    ```
 
