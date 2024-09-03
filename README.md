@@ -9,10 +9,10 @@ pyPicDeMo is a simple GUI tool designed to help you manage your image files by a
 - **Filename Display:** View the filename of the currently displayed image.
 
 ## System and Software Requirements
--Python 3.6 or higher
--Pip
--Pillow (installed via pip)
--send2trash (installed via pip)
+- Python 3.6 or higher
+- Pip
+- Pillow (installed via pip)
+- send2trash (installed via pip)
 
 ## Getting Started
 
@@ -85,6 +85,6 @@ The complete source code for pyPicDeMo is available in this repository. You may 
 
 By contributing to this project, you agree that your contributions will be licensed under the GNU General Public License.
 
-Acknowledgments
+## Acknowledgments
 
 This project was collaboratively developed by Damien and ChatGPT.
