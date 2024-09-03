@@ -9,8 +9,21 @@ This project is released under an open-source license and is freely available fo
 - Damien: Project concept, design decisions, and guidance.
 - ChatGPT: Code implementation and technical support.
 
-# License:
-This project is licensed under the GNU License.
+# This file is part of the pyPicDeMo project.
+#
+# pyPicDeMo is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# pyPicDeMo is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with pyPicDeMo. If not, see <https://www.gnu.org/licenses/>.
+
 """
 
 import os
