@@ -46,6 +46,7 @@ No Warranty: This software is provided "as is," without any express or implied w
 Use at Your Own Risk: The user assumes all responsibility for the use and installation of this software. The authors make no guarantees about the suitability of this software for any particular purpose.
 
 No Maintenance: This project was created as a side project and there are no plans for maintaining or updating it in the future.
+
 License
 
 This project is licensed under the GNU License. See the LICENSE file for more details.
